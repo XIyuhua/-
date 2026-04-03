@@ -14,7 +14,7 @@ public class PlayerAnimator : MonoBehaviour
     {
         animator = GetComponent<Animator>();
     }
-    
+
     private void Update()
     {
         //更新玩家的动画状态
